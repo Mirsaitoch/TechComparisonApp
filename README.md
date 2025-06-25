@@ -89,13 +89,6 @@ cd TechComparisonKMP
 - **Git** для версионного контроля
 - **JSONPlaceholder** как тестовый API
 
-## 📖 Документация
-
-- [`Documentation/Research/TechComparison.md`](Documentation/Research/TechComparison.md) - Детальный технический анализ
-- [`Documentation/Report/`](Documentation/Report/) - Отчеты по практике
-- [`TechComparisonKMP/README.md`](TechComparisonKMP/README.md) - KMP проект
-- Inline документация в коде
-
 ## 🎓 Образовательная ценность
 
 Проект демонстрирует:
